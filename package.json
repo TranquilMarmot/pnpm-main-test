@@ -3,6 +3,7 @@
   "version": "1.0.0",
   "description": "Testing pnpx against main branch",
   "main": "index.js",
+  "bin": "./index.js",
   "author": "TranquilMarmot",
   "license": "ISC"
 }
