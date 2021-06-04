@@ -1,0 +1,8 @@
+{
+  "name": "pnpm-main-test",
+  "version": "1.0.0",
+  "description": "Testing pnpx against main branch",
+  "main": "index.js",
+  "author": "TranquilMarmot",
+  "license": "ISC"
+}
